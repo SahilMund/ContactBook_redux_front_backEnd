@@ -1,0 +1,34 @@
+.actions{
+    opacity:0.2;
+}
+
+tr:hover .actions{
+    opacity:1;
+}
+
+tbody td a{
+    color:rgb(0, 59, 94);
+
+    &:hover{
+        color:rgb(34, 0, 34);
+    }
+}
+
+#form{
+    color: chartreuse;
+    background-color:hsla(50, 33%, 25%, 0.75);
+}
+
+#editForm{
+    color:red;
+    background-color:pink
+
+}
+
+#btnEdit{
+    color:pink
+}
+
+#btn{
+    color:whitesmoke
+}

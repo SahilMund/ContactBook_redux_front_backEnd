@@ -1,0 +1,19 @@
+{
+  "name": "redux_ContactBook_BackEnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sahil Ranjan Mund",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.19",
+    "nodemon": "^2.0.4",
+    "redux": "^4.0.5",
+    "thunk": "0.0.1"
+  }
+}
